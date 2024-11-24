@@ -1,6 +1,6 @@
 ---
 title: Teaching
-summary: My courses
+summary: The courses I am involved with 
 type: landing
 
 cascade:
@@ -19,5 +19,7 @@ sections:
           - teaching
     design:
       view: article-grid
-      columns: 2
+      columns: 1
 ---
+
+abctext

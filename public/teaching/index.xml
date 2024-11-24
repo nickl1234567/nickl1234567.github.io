@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching | Nick Lemke</title>
+    <link>http://localhost:1313/teaching/</link>
+      <atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Teaching</title>
+      <link>http://localhost:1313/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning for medical imaging - Winter semester 2024/2025</title>
+      <link>http://localhost:1313/teaching/dlmi_ws24/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/dlmi_ws24/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/uploads/dlmi_banner.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This course targets graduate computer science students. The students should gain knowledge of basic concepts of medical imaging using deep learning techniques.
+The course is organized by our group. After introductory lectures given by Anirban Mukhopadhyay, each Ph.D. student will give a lecture focused on his/her specialization.&lt;/p&gt;
+&lt;p&gt;This semester it was my turn to present the lecture on medical image segmentation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Continual Learning | Nick Lemke</title>
+    <link>http://localhost:1313/tags/continual-learning/</link>
+      <atom:link href="http://localhost:1313/tags/continual-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Continual Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Continual Learning</title>
+      <link>http://localhost:1313/tags/continual-learning/</link>
+    </image>
+    
+    <item>
+      <title>Distribution-Aware Replay for Continual MRI Segmentation</title>
+      <link>http://localhost:1313/publication/distribution_aware/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/distribution_aware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What is Wrong with Continual Learning in Medical Image Segmentation?</title>
+      <link>http://localhost:1313/publication/what_is_wrong/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/what_is_wrong/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
