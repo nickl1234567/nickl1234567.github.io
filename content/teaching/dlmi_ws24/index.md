@@ -5,10 +5,10 @@ date: 2024-10-01
 type: docs
 math: false
 tags:
-image:
+image: 
 ---
 
-[](/uploads/dlmi_banner.png)
+{{< figure src="featured.png" >}}
 
 This course targets graduate computer science students. The students should gain knowledge of basic concepts of medical imaging using deep learning techniques.
 The course is organized by our group. After introductory lectures given by Anirban Mukhopadhyay, each Ph.D. student will give a lecture focused on his/her specialization.

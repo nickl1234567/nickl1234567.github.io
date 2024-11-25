@@ -7,7 +7,7 @@
     <description>Teaching</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu15077650497005832872.png</url>
       <title>Teaching</title>
       <link>http://localhost:1313/teaching/</link>
     </image>
@@ -17,7 +17,9 @@
       <link>http://localhost:1313/teaching/dlmi_ws24/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/dlmi_ws24/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/uploads/dlmi_banner.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/teaching/dlmi_ws24/featured.png&#34;&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;This course targets graduate computer science students. The students should gain knowledge of basic concepts of medical imaging using deep learning techniques.
 The course is organized by our group. After introductory lectures given by Anirban Mukhopadhyay, each Ph.D. student will give a lecture focused on his/her specialization.&lt;/p&gt;
 &lt;p&gt;This semester it was my turn to present the lecture on medical image segmentation.&lt;/p&gt;

@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/Nick_Lemke_CV.pdf
+      #button:
+      #  text: Download CV
+      #  url: uploads/Nick_Lemke_CV.pdf
     design:
       css_class: dark
       background:
@@ -29,19 +29,7 @@ sections:
             brightness: 0.3
           size: cover
           position: center
-          parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
+          parallax: true
   - block: collection
     id: papers
     content:

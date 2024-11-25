@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Role/position/tagline
 role: Ph.D. Student
@@ -57,9 +57,9 @@ education:
     date_start: 2024-05-01
     date_end: #2020-12-31
     summary: 
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
   - area: M.Sc. in Computer Science
     institution: TU Darmstadt
     date_start: 2023-01-01
@@ -168,6 +168,6 @@ awards:
 
 My name is Nick Lemke. I first got in touch with medical image analysis in terms of a university-related internship with [Camila González](https://med.stanford.edu/profiles/320362). After writing my master's thesis under the supervision of Camila and [Martin Mundt](https://owl-ml.com/people/), I joined the [Medical and Environmental Computing (MEC) Lab](https://meclabtuda.github.io/) as a Ph.D. student in May 2024.
 
-Supervised by my principal investigator [Anirban Mukhopadhyay](https://sites.google.com/site/geometricanirban/), I am working on resource-constrained medical image analysis using Neural Cellular Automata. I focus on Continual Learning, out-of-distribution detection/generalization.
+Supervised by my principal investigator [Anirban Mukhopadhyay](https://sites.google.com/site/geometricanirban/), I am working on resource-constrained medical image analysis using Neural Cellular Automata. I focus on Continual Learning and Out-of-distribution detection.
 
 If you want to get in touch, feel free to write me an e-mail.
