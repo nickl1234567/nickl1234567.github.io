@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: dalle.webp #stacked-peaks.svg
+          filename: dalle2.webp #stacked-peaks.svg
           filters:
             brightness: 0.3
           size: cover
