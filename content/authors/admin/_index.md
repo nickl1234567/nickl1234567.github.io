@@ -89,7 +89,7 @@ work:
     summary: |
       - Implementation of a federated NCA training
       - Supervisor: John Kalkhof, Mirko Konstantin, Jonathan Stieber
-  - position: Student Assistant
+  - position: Working Student
     company_name: Fraunhofer IGD, Darmstadt
     company_url: ''
     company_logo: ''
