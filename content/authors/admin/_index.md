@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/nickl1234567
   - icon: brands/linkedin
-    url: https://www.linkedin.com/nick-lemke-darmstadt
+    url: https://www.linkedin.com/in/nick-lemke-darmstadt/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=DLE2KJsAAAAJ
   #- icon: academicons/orcid
